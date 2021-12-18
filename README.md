@@ -1,7 +1,7 @@
 # 3DDD Social Mouse Tracker
 
 <p align="center">
-Welcome to the **3D**, **D**eep-learning, **D**epth-video **Social Mouse Tracker**!
+## Welcome to the <b>3D</b>, <b>D</b>eep-learning, <b>D</b>epth-video <b>Social Mouse Tracker</b>!
 </p>
 
 <p align="center">
