@@ -1,12 +1,10 @@
-# 3DDD Social Mouse Tracker
-
-<p align="center">
-Welcome to the **3D**, **D**eep-learning, **D**epth-video **Social Mouse Tracker**!
-</p>
+## <p align="center"> 3DDD Social Mouse Tracker </p>
 
 <p align="center">
 <img src="read_me_figs/example_3D_tracking.gif" width = 50%>
 </p>
+
+Welcome to the <b>3D</b>, <b>D</b>eep-learning, <b>D</b>epth-video <b>Social Mouse Tracker</b>!
 
 <i>This is a code repo for: </i>
 
